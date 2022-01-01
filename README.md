@@ -17,6 +17,20 @@
   <sub>Built with 🦀🕸 by <a href="https://rustwasm.github.io/">The Rust and WebAssembly Working Group</a></sub>
 </div>
 
+## Package
+
+edit /pkg/package.json
+```
+{
+  "name": "@neomatrixcode/neomatrixcode_hello_wasm",
+  "version": "0.1.4",
+```
+```
+npm publish
+```
+
+https://www.npmjs.com/package/@neomatrixcode/neomatrixcode_hello_wasm
+
 ## About
 
 [**📚 Read this template tutorial! 📚**][template-docs]
