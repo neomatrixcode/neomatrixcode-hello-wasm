@@ -11,4 +11,5 @@ wasm_bindgen_test_configure!(run_in_browser);
 fn pass() {
     assert_eq!(add_two_ints(10, 20), 30);
     assert_eq!(fib(10), 55);
+    assert_eq!(net("192.168.0.20:9100"), 1);
 }

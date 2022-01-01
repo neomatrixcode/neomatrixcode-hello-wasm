@@ -1,6 +1,6 @@
 [package]
 name = "neomatrixcode_hello_wasm"
-version = "0.1.1"
+version = "0.1.4"
 authors = ["Josue Acevedo Maldonado <josuecevedo@gmail.com>"]
 edition = "2018"
 
